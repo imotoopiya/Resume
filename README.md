@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<head>
-    <title>My Resume</title>
-</head>
+
 <body>
     <h1>Sofhia Tadeo</h1>
     <p>1 SAMPAGUITA ST. TAGUMPAY, ORANI BATAAN<br>
